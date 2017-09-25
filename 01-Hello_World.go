@@ -1,4 +1,4 @@
-// https://gobyexample.com/hello-world
+// adapted from https://gobyexample.com/hello-world
 
 package main
 
