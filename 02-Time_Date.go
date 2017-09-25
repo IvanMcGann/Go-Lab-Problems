@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Welcome to the playground!")
+	fmt.Println("The second problem: ")
 
-	fmt.Println("The time is", time.Now())
+	fmt.Println("The date and time is ", time.Now())
 }
