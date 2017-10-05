@@ -1,3 +1,6 @@
+//adapted from http://golangcookbook.blogspot.ie/2012/12/guess-number-game-v2.html
+
+
 package main
 import (
     "fmt"
