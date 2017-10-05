@@ -1,6 +1,5 @@
 //adapted from http://golangcookbook.blogspot.ie/2012/12/guess-number-game-v2.html
 
-
 package main
 import (
     "fmt"
@@ -21,7 +20,7 @@ func main() {
     fmt.Println("Welcome to Guess My Number Game!")
     for guess != myrand {
         fmt.Println("Take a guess...")
-        fmt.Scanf("%v", &guess)
+        fmt.Scanf("%v \n", &guess)
         tries++
         if guess > myrand {
             fmt.Println("Too high")
