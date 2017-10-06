@@ -1,3 +1,5 @@
+//adapted from https://play.golang.org/p/Ma2GXvj3XP
+
 //http://golanging.blogspot.ie/2013/04/go-slices-and-merge-sort.html
 
 
