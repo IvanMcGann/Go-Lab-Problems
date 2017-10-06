@@ -1,5 +1,10 @@
+//adapted from http://codegist.net/code/ex23/
+//https://codereview.stackexchange.com/questions/34095/approximating-square-root-loops-and-functions-exercise/35542#35542
+
+//implements main method
 package main
 
+//import the format and math packages
 import (
     "fmt"
     "math"
@@ -32,6 +37,7 @@ func Sqrt(x float64) float64 {
 
 }
 
+//main method function
 func main() {
 
     for i := 1; i < 11; i++ {
