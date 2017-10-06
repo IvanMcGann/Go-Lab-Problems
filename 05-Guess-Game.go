@@ -4,7 +4,7 @@
 //implements main method
 package main
 
-//import the format and math/rome and time packages
+//import the format and math/rand and time packages
 import (
     "fmt"
     "math/rand"
