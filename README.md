@@ -7,10 +7,13 @@ Course: Sortware Development Yr 3
 
 I have outlined a guide on how to use this repository below.
 
+I have done this problem sheet to the best of my ability, I had issues with using 2 lists in the merge & sort, the factorial and the newtons square root theory.
+I haven't included the .gitignore file as  was usure of how to create a file starting with a dot and I was told that doing it and cloning the repository several times as I had done can be an issue with that.
+I wasn't willing to create another repository as I already filled the form to hand up this repository at the below link:
 
+https://forms.office.com/Pages/ResponsePage.aspx?id=rs8Gj9UihEykbT2-PJNVjRknsyDoQWBFn3_IO6dRIpxUQ0VJSTNKVDBGME9GWUtQRVc5NEVUMzkzRC4u
 
-
-
+#Guide to Git Repository
 
 1. To access this repository you must first have access to git.
 
