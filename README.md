@@ -1,5 +1,17 @@
 # Go Problem Sheet
 
+Name: Ivan McGann
+Student No: G00340138
+Email: G00340138@gmit.ie
+Course: Sortware Development Yr 3
+
+I have outlined a guide on how to use this repository below.
+
+
+
+
+
+
 1. To access this repository you must first have access to git.
 
 2. To be able to clone the repository install git onto your computer from the following link:
