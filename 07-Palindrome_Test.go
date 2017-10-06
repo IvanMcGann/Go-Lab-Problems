@@ -1,3 +1,5 @@
+// adapted from http://www.golangpro.com/2016/01/check-string-palindrome-go.html
+
 package main
 
 import (
