@@ -1,3 +1,7 @@
+//http://golanging.blogspot.ie/2013/04/go-slices-and-merge-sort.html
+
+
+//implements main method
 package main
 
 import (
