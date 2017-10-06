@@ -1,3 +1,5 @@
+//adapted from https://gist.github.com/pyk/10519339
+
 
 package main
 
@@ -23,9 +25,9 @@ func main() {
   fmt.Println("The biggest number is: ", biggest)
   for _,v:=range x {
     if v>n {
-      fmt.Println(v,">",n)
+      fmt.Println(v,"is greater than",n)
     } else {
-      fmt.Println(v,"<",n)
+      fmt.Println(v,"is less than",n)
       n = v
       smallest = n
     }
